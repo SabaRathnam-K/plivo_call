@@ -1,0 +1,66 @@
+$(function () {
+    $('div').click(function () {
+        var elem = $(this);
+        alert('Class: ' + elem.attr('class'));
+        alert('Id: ' + elem.attr('id'));
+        alert('Name: ' + elem.attr('name'));    
+    });????
+});
+
+HTML
+
+<div class="className" onclick="getname();"></div>
+<div id="idName" onclick="getName();"></div>
+<div name="attrName" onclick="getName()"></div>
+
+CSS
+
+?div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}?
+
+JSfiddle: http://jsfiddle.net/54ynV/
+
+In the script above we're attaching to the click event of every div on the page $('div').click.... In the callback we're getting it's attributes.
+shareimprove this answer
+answered Nov 17 '12 at 21:36
+Minko Gechev
+18.6k64356
+add a comment
+up vote
+3
+down vote
+
+Firstly using jQuery you should attach click() handlers rather than use antiquated onclick attributes. Then you can use the this keyword in the manner you have in your function.
+
+Try this:
+
+<div class="className"></div>
+<div id="idName"></div>
+<div name="attrName"></div>
+
+$(function() {
+    $("div").click(function() {
+        var name = this.name;
+        var cls = this.className;
+        var id= this.id;
+
+        alert("Name: " + name + " / Class: " + cls + " / Id: " + id);
+    });
+});
+
+Example fiddle
+
+The attributes you've selected are all available through POJS, you could also convert this to a jQuery object to get other attributes, for example:
+
+var title = $(this).attr('title');
+var myattribute = $(this).data('myattribute'); // using HTML5: <div data-myattribute="foo"></div>
+
+shareimprove this answer
+edited Nov 17 '12 at 21:42
+answered Nov 17 '12 at 21:36
+Rory McCrossan
+217k26185227
+
