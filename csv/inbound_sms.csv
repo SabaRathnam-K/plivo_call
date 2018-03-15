@@ -1,0 +1,41 @@
+country,country_code,country_iso,prefix,number_type,sms_rate_in_usd,sms_unit,rental_rate_per_number_per_month_in_usd,one_time_setup_rate_per_number_in_usd
+Australia,61,AUS,61,local,0.00000,1,4.50000,0.00000
+Austria,43,AUT,43,local,0.00000,1,2.80000,0.00000
+Belgium,32,BEL,32,local,0.00000,1,0.80000,0.00000
+Brazil,55,BRA,55,local,0.00000,1,8.00000,0.00000
+Canada,1,CAN,1,local,0.00000,1,1.00000,0.00000
+Chile,56,CHL,56,local,0.00650,1,8.00000,0.00000
+China,86,CHN,86,local,0.01400,1,22.00000,0.00000
+Croatia,385,HRV,385,local,0.00000,1,6.00000,0.00000
+Czech Republic,420,CZE,420,local,0.00000,1,22.00000,0.00000
+Denmark,45,DNK,45,local,0.00000,0,4.60000,0.00000
+Estonia,372,EST,372,local,0.00000,1,3.40000,3.40000
+Finland,358,FIN,358,local,0.00000,1,3.57000,0.00000
+France,33,FRA,33,local,0.00000,1,3.50000,0.00000
+Germany,49,DEU,49,local,0.00000,1,10.40000,0.00000
+Hong Kong,852,HKG,852,local,0.00000,1,5.00000,5.00000
+Hungary,36,HUN,36,local,0.00600,1,76.60000,0.00000
+India,91,IND,91,local,0.00000,1,0.00000,0.00000
+Indonesia,62,IDN,62,local,0.00750,1,5.50000,0.00000
+Ireland,353,IRL,353,local,0.00000,1,8.00000,0.00000
+Israel,972,ISR,972,local,0.00000,1,14.00000,30.00000
+Italy,39,ITA,39,local,0.00000,1,10.00000,0.00000
+Latvia,371,LVA,371,local,0.00100,1,2.00000,0.00000
+Lithuania,370,LTU,370,local,0.00000,1,3.50000,3.50000
+Malaysia,60,MYS,60,local,0.00600,1,4.00000,0.00000
+Mexico,52,MEX,52,local,0.00000,1,12.00000,0.00000
+Netherlands,31,NLD,31,local,0.00000,1,7.00000,0.00000
+Norway,47,NOR,47,local,0.00750,1,10.00000,40.00000
+Pakistan,92,PAK,92,local,0.00000,1,30.00000,0.00000
+Poland,48,POL,48,local,0.00000,1,6.00000,0.00000
+Puerto Rico,1,PRI,1,local,0.00000,1,3.80000,0.00000
+Romania,40,ROU,40,local,0.00000,1,3.00000,0.00000
+Slovakia,421,SVK,421,local,0.00000,1,8.00000,0.00000
+South Africa,27,ZAF,27,local,0.00000,1,5.50000,0.00000
+South Korea,82,KOR,82,local,0.00000,1,7.50000,0.00000
+Spain,34,ESP,34,local,0.00000,1,0.80000,0.00000
+Sweden,46,SWE,46,local,0.00000,1,0.00000,0.00000
+Switzerland,41,CHE,41,local,0.00000,1,4.50000,0.00000
+United Kingdom,44,GBR,44,local,0.00000,1,0.80000,0.00000
+United States,1,USA,1,local,0.00000,1,0.80000,0.00000
+Few phone numbers may have higher incoming charges per sms.

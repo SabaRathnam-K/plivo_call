@@ -1,0 +1,912 @@
+Country,Country ISO,Country Code,Destination Network,MCC,MNC,Rate in USD
+Aruba,ABW,297,Aruba-MIO,,,0.01000
+Aruba,ABW,297,Aruba-Others,,,0.04200
+Aruba,ABW,297,Aruba - New Millennium Telecom (Digicel),363,002,0.02500
+Aruba,ABW,297,Aruba - SETAR,363,001,0.01890
+Afghanistan,AFG,93,Afghanistan-Other,,,0.01000
+Afghanistan,AFG,93,Afghanistan - Afghan Telecom,412,088,0.01000
+Afghanistan,AFG,93,Afghanistan - Afghan Wireless Communication Company (AWCC),412,001,0.07800
+Afghanistan,AFG,93,Afghanistan - Areeba (MTN),412,040,0.07000
+Afghanistan,AFG,93,Afghanistan - Etisalat,412,050,0.00920
+Afghanistan,AFG,93,Afghanistan - Roshan,412,020,0.05100
+Angola,AGO,244,Angola-Others,,,0.04400
+Angola,AGO,244,Angola - Movicel,631,004,0.02600
+Angola,AGO,244,Angola - Unitel,631,002,0.04000
+Anguilla,AIA,1264,Anguilla-Digicel,,,0.02200
+Anguilla,AIA,1264,Anguilla-Others,,,0.02200
+Anguilla,AIA,1264,Anguilla-LIME,,,0.02000
+Anguilla,AIA,1264,Anguilla - Cable & Wireless (Anguilla),365,840,0.02370
+Anguilla,AIA,1264,Anguilla - Weblinks,365,010,0.01600
+Albania,ALB,355,Albania-Others,,,0.01800
+Albania,ALB,355,Albania - Albania Mobile Communications (AMC),276,001,0.06600
+Albania,ALB,355,Albania - Eagle Mobile,276,003,0.06500
+Albania,ALB,355,Albania - Plus Communications (4L),276,004,0.03000
+Albania,ALB,355,Albania - Vodafone Albania,276,002,0.01400
+Andorra,AND,376,Andorra - All Networks,,,0.04000
+Netherlands Antilles,ANT,599,Netherlands Antilles-Telcell,362,051,0.01390
+Netherlands Antilles,ANT,599,Netherlands Antilles - Digicel,362,069,0.03500
+Netherlands Antilles,ANT,599,Netherlands Antilles - Satel,362,091,0.03500
+United Arab Emirates,ARE,971,United Arab Emirates-Others,,,0.01280
+United Arab Emirates,ARE,971,United Arab Emirates - Etisalat,424,002,0.01280
+United Arab Emirates,ARE,971,United Arab Emirates - du,424,003,0.01600
+Argentina,ARG,54,Argentina-Movistar,,,0.00960
+Argentina,ARG,54,Argentina-Others,,,0.00960
+Argentina,ARG,54,Argentina - CTI NORTE COMPANIA DE TELEFONOS DEL INTERIOR,722,320,0.00960
+Argentina,ARG,54,Argentina - Claro,722,310,0.01469
+Argentina,ARG,54,Argentina - NEXTEL COMMUNICATIONS ARGENTIN,722,020,0.00875
+Argentina,ARG,54,Argentina - TELECOM PERSONAL,722,034,0.05005
+Argentina,ARG,54,Argentina - TELEFONICA MOVILES ARGENTINA,722,007,0.01413
+Argentina,ARG,54,COMPANIA DE RADIOCOMUNICACIONE,722,010,0.05005
+Argentina,ARG,54,Argentina - GTE PCS,722,003,0.05005
+Argentina,ARG,54,Argentina - TELEFONICA COMUNICACIONES PERSONALES,722,070,0.01469
+Argentina,ARG,54,CTI COMPANIA DE TELEFONOS DEL INTERIOR,722,330,0.06800
+Armenia,ARM,374,Armenia-Others,,,0.02500
+Armenia,ARM,374,Armenia - ArmenTel,283,001,0.01000
+Armenia,ARM,374,Armenia - K-Telecom (Vivacell),283,005,0.01180
+Armenia,ARM,374,Armenia - Karabagh Telecom,283,004,0.01000
+Armenia,ARM,374,Armenia - Orange Armenia,283,010,0.02500
+American Samoa,ASM,1684,American Samoa-Others,,,0.06500
+American Samoa,ASM,1684,American Samoa-ASTCA,,,0.06500
+American Samoa,ASM,1684,American Samoa - American Samoa License DBA Blue Sky Communications,544,011,0.04000
+Antigua and Barbuda,ATG,1268,Antigua and Barbuda-Others,,,0.01500
+Antigua and Barbuda,ATG,1268,Antigua and Barbuda - APUA PCS,344,030,0.01180
+Antigua and Barbuda,ATG,1268,Antigua and Barbuda - Cable & Wireless (Antigua),344,920,0.01920
+Australia,AUS,61,Australia - Other Networks,,,0.03800
+Australia,AUS,61,Australia-YES OPTUS,,,0.03800
+Australia,AUS,61,Australia - Dialogue Communications Pty Limited,505,026,0.03800
+Australia,AUS,61,Australia - Pivotel Satellite Pty Limited,505,088,0.03800
+Australia,AUS,61,Australia - Rail Corporation,505,013,0.03800
+Australia,AUS,61,Australia - SingTel Optus,505,002,0.03800
+Australia,AUS,61,Australia - Telstra Corporation,505,072,0.03800
+Australia,AUS,61,Australia - Victorian Rail Track,505,016,0.03800
+Australia,AUS,61,Australia - Vodafone Australia PTY Limited,505,003,0.04290
+Australia,AUS,61,Australia - Vodafone Hutchison Australia,505,038,0.03800
+Austria,AUT,43,Austria - All Networks,,,0.05800
+Azerbaijan,AZE,994,Azerbaijan-Others,,,0.03500
+Azerbaijan,AZE,994,Azerbaijan-FONEX(Catel),,,0.02000
+Azerbaijan,AZE,994,Azerbaijan - Azercell,400,001,0.03500
+Azerbaijan,AZE,994,Azerbaijan - Azerfon(Nar Mobile),400,004,0.00850
+Azerbaijan,AZE,994,Azerbaijan - Bakcell,400,002,0.03080
+Azerbaijan,AZE,994,Azerbaijan - Catel,400,501,0.00880
+Burundi,BDI,257,Burundi-Others,,,0.05600
+Burundi,BDI,257,Burundi - Africell,642,002,0.00880
+Burundi,BDI,257,Burundi - Econet Wireless,642,001,0.00880
+Burundi,BDI,257,Burundi - Lacell (Smart Mobile),642,007,0.03000
+Burundi,BDI,257,Burundi - Onatel,642,003,0.05500
+Burundi,BDI,257,Burundi - U-COM,642,082,0.00880
+Belgium,BEL,32,Belgium-Others,206,009,0.05000
+Belgium,BEL,32,Belgium - Belgacom Mobile - Proximus,206,001,0.05733
+Belgium,BEL,32,Belgium - KPN Belgium (BASE),206,020,0.02160
+Belgium,BEL,32,Belgium - Lycamobile,206,006,0.05000
+Belgium,BEL,32,Belgium - MOBISTAR s.a.,206,010,0.05733
+Belgium,BEL,32,Belgium - N.M.B.S.,206,002,0.05000
+Belgium,BEL,32,Belgium - TELENET n.v.,206,005,0.04095
+Benin,BEN,229,Benin - Etisalat (Telecel),,,0.02500
+Benin,BEN,229,Benin-MTN,,,0.04500
+Benin,BEN,229,Benin-Others,,,0.04000
+Benin,BEN,229,Benin - BBCom,616,004,0.03000
+Benin,BEN,229,Benin - BeninCell (MTN)(Spacetel),616,003,0.03500
+Benin,BEN,229,Benin - GloBenin,616,005,0.02500
+Benin,BEN,229,Benin - Libercom,616,001,0.01800
+Benin,BEN,229,Benin - Telecel,616,002,0.06500
+Burkina Faso,BFA,226,Burkina Faso-Others,,,0.01400
+Burkina Faso,BFA,226,Burkina Faso - Airtel Burkina Faso S.A.,613,002,0.03500
+Burkina Faso,BFA,226,Burkina Faso - Telecel Faso S.A.,613,003,0.01000
+Burkina Faso,BFA,226,Burkina Faso - Telmob S.A (ONATEL),613,001,0.01960
+Bangladesh,BGD,880,Bangladesh All,,,0.05500
+Bangladesh,BGD,880,Bangladesh - Axiat Bangladesh Ltd,470,002,0.05500
+Bangladesh,BGD,880,Bangladesh - Grameen Phone,470,001,0.05500
+Bangladesh,BGD,880,Bangladesh - Orascom Telecom Holding,470,003,0.05500
+Bangladesh,BGD,880,Bangladesh - Pacific Bangladesh Telecom,470,005,0.05500
+Bangladesh,BGD,880,Bangladesh - Teletalk,470,004,0.05500
+Bangladesh,BGD,880,Bangladesh - Warid Telecom,470,007,0.05500
+Bulgaria,BGR,359,Bulgaria - Other Networks,,,0.05600
+Bulgaria,BGR,359,Bulgaria - Bulgarian Telecom Company (BTC),284,006,0.04000
+Bulgaria,BGR,359,Bulgaria - Globul (Cosmo Bulgaria Mobile),284,005,0.07700
+Bulgaria,BGR,359,Bulgaria - MobilTel AD,284,001,0.05240
+Bahrain,BHR,973,Bahrain-Others,,,0.01300
+Bahrain,BHR,973,Bahrain - Batelco,426,001,0.01200
+Bahrain,BHR,973,Bahrain - ROYAL COURT,426,005,0.01200
+Bahrain,BHR,973,Bahrain - Viva Bahrain / STC Bahrain,426,004,0.01200
+Bahrain,BHR,973,Bahrain - Zain Bahrain,426,002,0.01200
+Bahamas,BHS,1242,Bahamas - All Networks,,,0.02250
+Bosnia and Herzegovina,BIH,387,Bosnia and Herzegovina-Others,,,0.03600
+Bosnia and Herzegovina,BIH,387,Bosnia and Herzegovina - GSM BIH (BH Telecom),218,090,0.09000
+Bosnia and Herzegovina,BIH,387,Bosnia and Herzegovina - HPT Mostar (HT d.d. Mostar),218,003,0.00880
+Bosnia and Herzegovina,BIH,387,Bosnia and Herzegovina - m:tel,218,005,0.05800
+Belarus,BLR,375,Belarus-Others,,,0.01500
+Belarus,BLR,375,Belarus - BelCel JV,257,501,0.01500
+Belarus,BLR,375,Belarus - JV Mobile Digital Communications Ltd (Velcom),257,001,0.02000
+Belarus,BLR,375,Belarus - Life:),257,004,0.02000
+Belarus,BLR,375,Belarus - Mobile TeleSystems LLC (MTS),257,002,0.02000
+Belize,BLZ,501,Belize - All Networks,,,0.00880
+Bermuda,BMU,1441,Bermuda - All Networks,,,0.01890
+Bolivia,BOL,591,Bolivia-Others,,,0.01000
+Bolivia,BOL,591,Bolivia - Entel,736,002,0.02000
+Bolivia,BOL,591,Bolivia - Tigo,736,003,0.01375
+Bolivia,BOL,591,Bolivia - Viva,736,001,0.08750
+Brazil,BRA,55,Brazil-Others,,,0.02600
+Brazil,BRA,55,Brazil - CTBC Celular,724,007,0.02600
+Brazil,BRA,55,Brazil - Claro,724,005,0.02600
+Brazil,BRA,55,Brazil - Datora Telecommunications,724,018,0.02600
+Brazil,BRA,55,Brazil - Nextel Brazil,724,000,0.02600
+Brazil,BRA,55,Brazil - Oi Grupo,724,031,0.02600
+Brazil,BRA,55,Brazil - Options Comp & Elet Ltda,724,036,0.02600
+Brazil,BRA,55,Brazil - Porto Seguro Telecomunicacoes,724,054,0.02600
+Brazil,BRA,55,Brazil - Sercomtel Celular,724,055,0.02600
+Brazil,BRA,55,Brazil - TIM Celular,724,002,0.02600
+Brazil,BRA,55,Brazil - Telcom Telecomunicacoes Do Brasil,724,016,0.02600
+Brazil,BRA,55,Brazil - Unicel Do Brasil Telecomunicacoes,724,037,0.02600
+Brazil,BRA,55,Brazil - Vivo,724,019,0.02600
+Brazil,BRA,55,Brazil VIVO MG,724,023,0.02600
+Barbados,BRB,1246,Barbados-Others,,,0.03770
+Barbados,BRB,1246,Barbados-LIME (Cable and Wireless),342,600,0.03770
+Barbados,BRB,1246,Barbados-Sunbeach,342,820,0.03770
+Brunei,BRN,673,Brunei - All Networks,,,0.00880
+Bhutan,BTN,975,Bhutan - All Networks,,,0.02000
+Botswana,BWA,267,Botswana-Others,,,0.03600
+Botswana,BWA,267,Botswana - BTC Mobile,652,004,0.03300
+Botswana,BWA,267,Botswana - Mascom Wireless,652,001,0.08640
+Botswana,BWA,267,Botswana - Orange Botswana,652,002,0.08000
+Central African Republic,CAF,236,Central African Republic-Others,,,0.03000
+Central African Republic,CAF,236,Central African Republic - A-Cell,623,001,0.06500
+Central African Republic,CAF,236,Central African Republic - NationLink Telecom,623,004,0.03000
+Central African Republic,CAF,236,Central African Republic - Orange,623,003,0.02800
+Central African Republic,CAF,236,Central African Republic - Telecel,623,002,0.01000
+Canada,CAN,1,Canada - All Networks,,,0.00350
+Switzerland,CHE,41,Switzerland - Comfone AG,228,009,0.03000
+Switzerland,CHE,41,Switzerland - In&Phone,228,007,0.03000
+Switzerland,CHE,41,Switzerland - Lycamobile (SALT),228,054,0.03000
+Switzerland,CHE,41,Switzerland - Orange Communications,228,003,0.03000
+Switzerland,CHE,41,Switzerland - Sunrise Communications,228,002,0.03000
+Switzerland,CHE,41,Switzerland - Swisscom,228,001,0.03000
+Switzerland,CHE,41,UPC Cablecom GmbH,228,053,0.03000
+Switzerland,CHE,41,Switzerland - Other,,,0.03000
+Chile,CHL,56,Chile - All Networks,,,0.04000
+China,CHN,86,China - All Networks,,,0.04200
+Cote D'Ivoire,CIV,225,Cote d'Ivoire-Others,,,0.04500
+Cote D'Ivoire,CIV,225,Cote D'Ivoire - Atlantique Cellulaire (MOOV),612,002,0.01180
+Cote D'Ivoire,CIV,225,Cote D'Ivoire - Comium Ivory Coast Inc (KoZ),612,004,0.01000
+Cote D'Ivoire,CIV,225,Cote D'Ivoire - MTN Cote d'Ivoire,612,005,0.02910
+Cote D'Ivoire,CIV,225,Cote D'Ivoire - NiamoutieTelecom,612,007,0.01000
+Cote D'Ivoire,CIV,225,Cote D'Ivoire - Orange Cote d'Ivoire,612,003,0.06310
+Cote D'Ivoire,CIV,225,Cote D'Ivoire - Oricel Cote d'Ivoire,612,006,0.02840
+Cameroon,CMR,237,Cameroon - MTN,624,001,0.06000
+Cameroon,CMR,237,Cameroon - Orange,624,002,0.05500
+Congo Democratic Republic,COD,243,"Congo, The Democratic Republic of the-Others",,,0.03225
+Congo Democratic Republic,COD,243,Equateur Telecom Congo (ETC),629,002,0.07500
+Congo Democratic Republic,COD,243,CYRUS,629,007,0.03600
+Congo Democratic Republic,COD,243,Congolese Wireless Network (Vodacom),630,001,0.02040
+Congo Democratic Republic,COD,243,AIRTEL (old Zain),630,002,0.03070
+Congo Democratic Republic,COD,243,Supercell,630,005,0.04500
+Congo Democratic Republic,COD,243,Orange,630,086,0.02040
+Congo Democratic Republic,COD,243,Yozma Timeturns,630,088,0.07500
+Congo Democratic Republic,COD,243,Sait-Telecom (Oasis),630,089,0.07000
+Congo Democratic Republic,COD,243,Africell RDC,630,090,0.07500
+Congo,COG,242,Congo-Airtel,,,0.05000
+Congo,COG,242,Congo-Others,,,0.02388
+Congo,COG,242,Celtel Congo,629,001,0.03463
+Congo,COG,242,MTN Congo S.A.,629,010,0.03500
+Cook Islands,COK,682,Cook Islands - All Networks,,,0.01000
+Colombia,COL,57,Colombia - All Networks,,,0.02800
+Comoros,COM,269,Comoros - All Networks,,,0.01250
+Cape Verde,CPV,238,Cape Verde-Others,,,0.01000
+Cape Verde,CPV,238,Cape Verde - Cabo Verde Movel,625,001,0.01100
+Cape Verde,CPV,238,Cape Verde - TPlus Telecom,625,002,0.02200
+Costa Rica,CRI,506,Costa Rica-Others,,,0.04400
+Costa Rica,CRI,506,Costa Rica - Claro Costa Rica Telecomunicaciones,712,003,0.04500
+Costa Rica,CRI,506,Costa Rica - Instituto Costarricense de Electricidad (ICE),712,002,0.04500
+Costa Rica,CRI,506,Costa Rica - Telefonica Moviles,712,004,0.04500
+Cuba,CUB,53,Cuba - ETECSA/Cubacel,368,001,0.05850
+Cayman Islands,CYM,1345,Cayman Islands - Digicell,346,050,0.01400
+Cayman Islands,CYM,1345,Cayman Islands-Others,,,0.02000
+Cayman Islands,CYM,1345,Cayman Islands - Cable & Wireless (Cayman Islan,346,140,0.02000
+Cyprus,CYP,357,Cyprus-Others,,,0.02000
+Cyprus,CYP,357,CYTAmobile-Vodafone,280,001,0.01180
+Cyprus,CYP,357,MTN (Areeba Ltd),280,010,0.01180
+Cyprus,CYP,357,PrimeTel PLC,280,020,0.01180
+Cyprus,CYP,357,Lemontel Ltd,280,022,0.02000
+Czech Republic,CZE,420,Czech Republic - ASTELNET,230,007,0.06800
+Czech Republic,CZE,420,Czech Republic - Air Telecom (MobilKom),230,004,0.05900
+Czech Republic,CZE,420,Czech Republic - Compatel,230,008,0.06800
+Czech Republic,CZE,420,Czech Republic - T-Mobile Czech Republic (T-Systems),230,001,0.06800
+Czech Republic,CZE,420,Czech Republic - TRAVEL TELEKOMMUNIKATION,230,005,0.06800
+Czech Republic,CZE,420,Czech Republic - Telefonica Czech Republic,230,002,0.06800
+Czech Republic,CZE,420,Czech Republic - Vodafone Czech Republic,230,003,0.05900
+Germany,DEU,49,Germany Others,,,0.08000
+Germany,DEU,49,Germany - DTAG (T-Mobile),262,006,0.08000
+Germany,DEU,49,Germany - E Plus Mobilfunk,262,077,0.08000
+Germany,DEU,49,Germany - Lycamobile,262,043,0.08000
+Germany,DEU,49,Germany - Telefonica (O2 Germany GmbH & Co. OHG),262,008,0.08000
+Germany,DEU,49,Germany - Vodafone D2,262,002,0.08000
+Djibouti,DJI,253,Djibouti - All Networks,,,0.04800
+Dominica,DMA,1767,Dominica - All Networks,,,0.01300
+Denmark,DNK,45,Denmark-Other Networks,,,0.01800
+Denmark,DNK,45,Denmark - Hi3G,238,006,0.02200
+Denmark,DNK,45,Denmark - Lycamobile Denmark Ltd,238,012,0.01300
+Denmark,DNK,45,Denmark - Mach Connectivity,238,003,0.01200
+Denmark,DNK,45,Denmark - TDC,238,001,0.02200
+Denmark,DNK,45,Denmark - Telenor,238,077,0.02000
+Denmark,DNK,45,Denmark - Telia,238,020,0.02000
+Dominican Republic,DOM,1809,Dominican Republic - Other,,,0.09800
+Dominican Republic,DOM,1809,Dominican Republic - Compania Dominicana de Telefon (Claro),370,002,0.03000
+Dominican Republic,DOM,1809,Dominican Republic - Orange Dominicana,370,001,0.03000
+Dominican Republic,DOM,1809,Dominican Republic - Tricom,370,003,0.09800
+Dominican Republic,DOM,1809,Dominican Republic - Trilogy Dominicana (Viva),370,004,0.03980
+Algeria,DZA,213,Algeria-Others,,,0.09400
+Algeria,DZA,213,Algeria - Algerie Telecom,603,001,0.09400
+Algeria,DZA,213,Algeria - Orascom Telecom,603,002,0.00920
+Algeria,DZA,213,Algeria - Wataniya Telecom Algerie (Nedjma),603,003,0.09400
+Ecuador,ECU,593,Ecuador-Others,,,0.11164
+Ecuador,ECU,593,Ecuador - Claro (Conecel S.A.),740,001,0.11164
+Ecuador,ECU,593,Ecuador - Movistar (Otecel),740,000,0.11164
+Egypt,EGY,20,Egypt - Etisalat,602,003,0.02700
+Egypt,EGY,20,Egypt - Mobilnil,602,001,0.03500
+Egypt,EGY,20,Egypt - Vodafone,602,002,0.05000
+Egypt,EGY,20,Egypt - Telecom Egypt,602,004,0.06200
+Eritrea,ERI,291,Eritrea - All Networks,,,0.06500
+Spain,ESP,34,Spain - All Networks,,,0.05500
+Estonia,EST,372,Estonia-Others,,,0.06500
+Estonia,EST,372,Estonia - EMT,248,001,0.07300
+Estonia,EST,372,Estonia - Elisa Eesti AS (Radiolinja Eesti),248,002,0.06000
+Estonia,EST,372,Estonia - Tele 2 Eesti,248,003,0.05876
+Ethiopia,ETH,251,Ethiopia - All Networks,,,0.01287
+Finland,FIN,358,Finland-Saunalahti,,,0.01250
+Finland,FIN,358,Finland - Alands Mobiltelefon,244,014,0.01230
+Finland,FIN,358,Finland - Compatel Limited,244,026,0.06000
+Finland,FIN,358,Finland - DNA Finland,244,013,0.06435
+Finland,FIN,358,Finland - Elisa Oy,244,005,0.05000
+Finland,FIN,358,Finland - Nokia,244,009,0.01000
+Finland,FIN,358,Finland - Suomen Erillisverkot,244,011,0.01000
+Finland,FIN,358,Finland - TeliaSonera Finland,244,091,0.05000
+Finland,FIN,358,Finland - Ukko Mobile,244,031,0.06000
+Finland,FIN,358,Finland - Virve Tuotteet ja Palvelut Oy,244,033,0.06000
+Finland,FIN,358,TDC Finland,244,010,0.01000
+Finland,FIN,358,Mundio Mobile (Finland) Limited),244,030,0.06000
+Finland,FIN,358,Finland - Others,244,032,0.01250
+Fiji,FJI,679,Fiji-Others,,,0.01000
+Fiji,FJI,679,Fiji - Digicel,542,002,0.03540
+Fiji,FJI,679,Fiji - Vodafone,542,001,0.02288
+Falkland Islands (Malvinas),FLK,500,Falkland Islands (Malvinas) - All Networks,,,0.02000
+France,FRA,33,France - Others,,,0.04200
+France,FRA,33,France - ASSOCIATION PLATE,208,092,0.04200
+France,FRA,33,France - ASTRIUM SAS,208,028,0.04200
+France,FRA,33,France - BOUYGUES TELECOM,208,021,0.04200
+France,FRA,33,France - COMPLETEL,208,008,0.04200
+France,FRA,33,France - FREE MOBILE,208,016,0.04200
+France,FRA,33,France - Globalstar Europe,208,006,0.04200
+France,FRA,33,France - Hewlett,208,012,0.04200
+France,FRA,33,France - MOBIQUITHINGS,208,024,0.04200
+France,FRA,33,France - NRJ MOBILE,208,026,0.04200
+France,FRA,33,France - OMEA TELECOM,208,089,0.04200
+France,FRA,33,France - ORANGE FRANCE,208,000,0.04200
+France,FRA,33,France - SOCIETE FRANCAISE DU RADIOTELEPHONE (SFR),208,010,0.04200
+France,FRA,33,France - TRANSATEL,208,022,0.04200
+France,FRA,33,Ste D'INGENIERIE SYSTEME TELECOM ET RESEAUX,208,004,0.04200
+France,FRA,33,LYCAMOBILE,208,025,0.04200
+France,FRA,33,AFONE,208,027,0.04200
+France,FRA,33,MUNDIO MOBILE,208,031,0.04200
+Faeroe Islands,FRO,298,Faeroe Islands - All Networks,,,0.01000
+Micronesia,FSM,691,Micronesia - All Networks,,,0.06500
+Gabon,GAB,241,Gabon-Others,,,0.04200
+Gabon,GAB,241,Gabon - Libertis,628,001,0.01500
+Gabon,GAB,241,Gabon - Telecel,628,002,0.02000
+Gabon,GAB,241,Gabon - Airtel,628,003,0.04000
+United Kingdom,GBR,44,United Kingdom - All Networks,,,0.02900
+Georgia,GEO,995,Georgia-Mobitel,,,0.01200
+Georgia,GEO,995,Georgia - Aquafon,282,067,0.01200
+Georgia,GEO,995,Georgia - Beeline,282,004,0.02200
+Georgia,GEO,995,Georgia - Geocell,282,001,0.01375
+Georgia,GEO,995,Georgia - Magti,282,003,0.01390
+Georgia,GEO,995,Georgia - Silqnet,282,005,0.00880
+Guernsey,GGY,,Guernsey - All Networks,,,0.02200
+Ghana,GHA,233,Ghana - Airtel /Zain Communications (Ghana) Ltd,620,006,0.01230
+Ghana,GHA,233,Ghana - Ghana Telecom / Vodafone (Ghana),620,002,0.01230
+Ghana,GHA,233,Ghana - Glo Ghana (Globalcom),620,007,0.01390
+Ghana,GHA,233,Ghana - Kasapa Telecom Ltd (CDMA)(expresso),620,004,0.03500
+Ghana,GHA,233,Ghana - Millicom Ghana Ltd (tiGO),620,003,0.01230
+Ghana,GHA,233,Ghana - ScanCom Ltd (MTN),620,001,0.02621
+Gibraltar,GIB,350,Gibraltar - All Networks,,,0.00880
+Guinea,GIN,224,Guinea-Others,,,0.03000
+Guinea,GIN,224,Guinea - Areeba (MTN),611,004,0.07800
+Guinea,GIN,224,Guinea - Cellcom,611,005,0.02400
+Guinea,GIN,224,Guinea - Intercel,611,003,0.03000
+Guinea,GIN,224,Guinea - Orange,611,001,0.09000
+Guinea,GIN,224,Guinea - Sotelgui,611,002,0.06500
+Guadeloupe,GLP,590,Guadeloupe-Orange,,,0.11300
+Guadeloupe,GLP,590,Guadeloupe-Others,,,0.01400
+Guadeloupe,GLP,590,Guadeloupe - Dauphin Telecom AMIGO,340,008,0.09000
+Guadeloupe,GLP,590,Guadeloupe - UTS CARAIBES,340,003,0.01400
+Gambia,GMB,220,Gambia - All,,,0.01000
+Gambia,GMB,220,Gambia - Africell,607,002,0.01300
+Gambia,GMB,220,Gambia - Comium,607,003,0.01300
+Gambia,GMB,220,Gambia - Gamcel,607,001,0.01375
+Gambia,GMB,220,Gambia - Qcell,607,004,0.01300
+Guinea Bissau,GNB,245,Spacetel Guinea-Bissau,632,002,0.01000
+Guinea Bissau,GNB,245,Orange Bissau,632,003,0.01000
+Guinea Bissau,GNB,245,Guineatel,632,007,0.01000
+Equatorial Guinea,GNQ,240,Equatorial Guinea - GETESA (Orange),627,001,0.01400
+Equatorial Guinea,GNQ,240,Equatorial Guinea - HiTs G.E. S.A.,627,003,0.06160
+Greece,GRC,30,Greece - All Networks,,,0.04400
+Grenada,GRD,1473,Grenada - All Networks,,,0.01500
+Greenland,GRL,299,Greenland - All Networks,,,0.00880
+Guatemala,GTM,502,Guatemala-Others,,,0.04500
+Guatemala,GTM,502,Guatemala - Comunicaciones Celulares (COMCEL) (Tigo),704,002,0.02000
+Guatemala,GTM,502,Guatemala - Telecomunicaciones de Guatemala (Claro),704,001,0.02000
+Guatemala,GTM,502,Guatemala - Telefonica Moviles Guatemala (movistar),704,003,0.04200
+French Guiana,GUF,594,French Guiana - Digicel,340,020,0.03500
+French Guiana,GUF,594,French Guiana - Orange Caraibe Mobiles,340,001,0.06500
+French Guiana,GUF,594,French Guiana - Outremer Telecom,340,002,0.00880
+Guam,GUM,1671,Guam - All Networks,,,0.01000
+Guyana,GUY,592,Guyana-Cellink,,,0.05000
+Guyana,GUY,592,Guyana - Digicel,738,001,0.00880
+Guyana,GUY,592,Guyana - Guyana Telephone & Telegraph (Cellink),738,002,0.04200
+Hong Kong,HKG,852,Hong Kong-PCCW Mobile,,,0.04200
+Hong Kong,HKG,852,Hong Kong-Others,,,0.05800
+Hong Kong,HKG,852,Hong Kong - CITIC Telecom 1616,454,001,0.01100
+Hong Kong,HKG,852,Hong Kong - CSL,454,002,0.04850
+Hong Kong,HKG,852,Hong Kong - China Mobile Hong Kong Co,454,013,0.04004
+Hong Kong,HKG,852,Hong Kong - China Motion Telecom (HK),454,009,0.01100
+Hong Kong,HKG,852,Hong Kong - China Unicom (Hong Kong) Operations,454,007,0.05500
+Hong Kong,HKG,852,Hong Kong - China-Hongkong Telecom,454,011,0.01100
+Hong Kong,HKG,852,Hong Kong - Hong Kong Telecommunications (HKT),454,016,0.04147
+Hong Kong,HKG,852,Hong Kong - Hutchison,454,005,0.04400
+Hong Kong,HKG,852,Hong Kong - SmarTone Mobile Communications,454,017,0.03500
+Hong Kong,HKG,852,Hong Kong - Truphone Hong Kong,454,008,0.01100
+Honduras,HND,504,Honduras - Digicel Honduras,708,040,0.02500
+Honduras,HND,504,Honduras - Hondutel (Empresa Hondurena de Telecomunicaciones),708,030,0.01500
+Honduras,HND,504,Honduras - Sercom (Claro),708,001,0.01500
+Honduras,HND,504,Honduras - Telefonica Celular S.A (CELTEL) (Tigo),708,002,0.01300
+Croatia,HRV,385,Croatia-Croatia,,,0.08000
+Croatia,HRV,385,Croatia - Hrvatski Telekom (HT),219,001,0.04800
+Croatia,HRV,385,Croatia - Tele2,219,002,0.04800
+Croatia,HRV,385,Croatia - VIPNet,219,010,0.04800
+Haiti,HTI,509,Haiti - NATCOM (National Telecom S.A.),,,0.03000
+Haiti,HTI,509,Haiti - Comcel/Voila,372,001,0.07000
+Haiti,HTI,509,Haiti - Haiti Telecommunication (HAITEL),372,020,0.07200
+Haiti,HTI,509,Haiti - Unigestion Holding (Digicel),338,050,0.02847
+Hungary,HUN,36,Hungary-T-Mobile,,,0.07000
+Hungary,HUN,36,Hungary - Magyar Telekom,216,030,0.07000
+Hungary,HUN,36,Hungary - Telenor Magyarorszag,216,001,0.06500
+Hungary,HUN,36,Hungary - UPC Magyarorszag,216,071,0.07000
+Hungary,HUN,36,Hungary - Vodafone Magyarorszag,216,070,0.06500
+Hungary,HUN,36,Hungary - Others,,,0.07000
+Indonesia,IDN,62,Indonesia Others,,,0.04600
+Indonesia,IDN,62,Indonesia - PT Bakrie Telecom (Telco Asia),510,099,0.04600
+Indonesia,IDN,62,Indonesia - PT Hutchison CP Telecom,510,089,0.04600
+Indonesia,IDN,62,Indonesia - PT INDOSAT Tbk,510,003,0.04600
+Indonesia,IDN,62,Indonesia - PT Smart Telecom,510,009,0.04600
+Indonesia,IDN,62,Indonesia - PT XL Axiata,510,011,0.04600
+Indonesia,IDN,62,Indonesia - PT. Telekomunikasi Selular (Telkomsel),510,010,0.04600
+Indonesia,IDN,62,Indonesia - PT.Natrindo Telepon Seluler,510,008,0.04600
+Isle of Man,IMN,44,Isle of Man - All Networks,,,0.03500
+India,IND,91,India - All Networks,,,0.00250
+Ireland,IRL,353,Ireland-Others,,,0.05382
+Ireland,IRL,353,Ireland - Clever Communications Ltd,272,009,0.01200
+Ireland,IRL,353,Ireland - Eircom,272,007,0.05600
+Ireland,IRL,353,Ireland - Hutchison 3G Ireland Ltd,272,005,0.04600
+Ireland,IRL,353,Ireland - Meteor Mobile Communications Ltd.,272,003,0.04600
+Ireland,IRL,353,Ireland - O2 Communications (Ireland) Ltd.,272,002,0.04875
+Ireland,IRL,353,Ireland - Vodafone Ireland plc,272,001,0.05100
+Ireland,IRL,353,Liffey Telecom Ltd,272,011,0.03400
+Ireland,IRL,353,Lycamobile Ireland Ltd,272,013,0.03850
+Iran,IRN,98,"Iran, Islamic Republic Of-MTCE",,,0.03400
+Iran,IRN,98,Iran - Irancell,432,035,0.02300
+Iran,IRN,98,Iran - Mobile Communications Company of Iran (MCI),432,011,0.01677
+Iran,IRN,98,Iran - Mobile Telecommunications Company of Esfahan (MTCE),432,070,0.06500
+Iran,IRN,98,Iran - Talya,432,032,0.04500
+Iran,IRN,98,Iran - Telecommunication Kish Co. (Kifzo),432,014,0.01000
+Iraq,IRQ,964,Iraq - Al-Mazaya,418,081,0.05500
+Iraq,IRQ,964,Iraq - Al-Nakheel,418,092,0.05500
+Iraq,IRQ,964,Iraq - Al-Seraj,418,087,0.05500
+Iraq,IRQ,964,Iraq - Al-Shams,418,089,0.05500
+Iraq,IRQ,964,Iraq - Anwar Yagoot Al Khaleej,418,085,0.05500
+Iraq,IRQ,964,Iraq - Asia Cell,418,005,0.07400
+Iraq,IRQ,964,Iraq - Belad Babel,418,091,0.05500
+Iraq,IRQ,964,Iraq - Emaar Al-Basrah,418,084,0.05500
+Iraq,IRQ,964,Iraq - Furatfone,418,086,0.05500
+Iraq,IRQ,964,Iraq - High Link,418,088,0.05500
+Iraq,IRQ,964,Iraq - ITC Fanoos,418,048,0.05500
+Iraq,IRQ,964,Iraq - ITPC,418,080,0.05500
+Iraq,IRQ,964,Iraq - Iraq Central Cooperative Association for Communication and Transportation,418,047,0.05500
+Iraq,IRQ,964,Iraq - IraqCell,418,093,0.05500
+Iraq,IRQ,964,Iraq - IraqTel,418,049,0.05500
+Iraq,IRQ,964,Iraq - Itisaluna,418,062,0.05500
+Iraq,IRQ,964,Iraq - Kalimat,418,070,0.05500
+Iraq,IRQ,964,Iraq - KorekTel,418,040,0.05500
+Iraq,IRQ,964,Iraq - Mobitel,418,045,0.05500
+Iraq,IRQ,964,Iraq - Sader Al-Iraq,418,083,0.05500
+Iraq,IRQ,964,Iraq - Shally,418,094,0.05500
+Iraq,IRQ,964,Iraq - ZAIN,418,020,0.07400
+Iceland,ISL,354,Iceland - All Networks,,,0.01100
+Israel,ISR,972,Israel All,,,0.00650
+Israel,ISR,972,Israel - Cellcom,425,002,0.00650
+Israel,ISR,972,Israel - Golan Telecom,425,008,0.00650
+Israel,ISR,972,Israel - HOT Telecom,425,007,0.00650
+Israel,ISR,972,Israel - Jawwal,425,005,0.02200
+Israel,ISR,972,Israel - Partner Communications Co. Ltd (Orange),425,001,0.00650
+Israel,ISR,972,Israel - Pelephone,425,003,0.00650
+Israel,ISR,972,Israel - Wataniya Palestine,425,006,0.01100
+Israel,ISR,972,Alon Cellular Ltd (Youphone)),425,014,0.00650
+Israel,ISR,972,Home Cellular,425,015,0.00650
+Israel,ISR,972,Rami Levi,425,016,0.00650
+Italy,ITA,39,Italy - All Networks,,,0.05600
+Jamaica,JAM,1876,Jamaica-Digicel,,,0.03770
+Jamaica,JAM,1876,Jamaica-LIME,,,0.03770
+Jamaica,JAM,1876,Jamaica-Other,,,0.03770
+Jamaica,JAM,1876,Jamaica - Cable & Wireless (Jamaica),338,180,0.03770
+Jordan,JOR,962,Jordan-Xpress,416,074,0.05785
+Jordan,JOR,962,Jordan - Petra Joranian Mobile Telecommunications Co,416,077,0.05785
+Jordan,JOR,962,Jordan - Umniah,416,003,0.05785
+Jordan,JOR,962,Jordan - Zain,416,001,0.05785
+Japan,JPN,81,Japan-eMobile,,,0.05000
+Japan,JPN,81,Japan-Others,,,0.06800
+Japan,JPN,81,Japan - KDDI,440,076,0.06000
+Japan,JPN,81,Japan - NTT DoCoMo,440,003,0.06000
+Japan,JPN,81,Japan - Okinawa Cellular,440,078,0.06000
+Japan,JPN,81,Japan - Softbank Mobile (SBM),440,020,0.04270
+Japan,JPN,81,"Japan - Ymobile (AKA eAccess, Willcom)",440,000,0.06050
+Kazakhistan,KAZ,7,Beeline (K-mobile),401,001,0.02700
+Kazakhistan,KAZ,7,K-Cell,401,002,0.04800
+Kazakhistan,KAZ,7,Altel (Dalacom),401,007,0.04600
+Kazakhistan,KAZ,7,Kazakhtelecom,401,008,0.02700
+Kenya,KEN,254,Kenya-Econet,,,0.02500
+Kenya,KEN,254,Kenya-Other,,,0.03500
+Kenya,KEN,254,Kenya - Airtel,639,003,0.01540
+Kenya,KEN,254,Kenya - Essar Telecom Kenya,639,005,0.06000
+Kenya,KEN,254,Kenya - Safaricom (GSM),639,002,0.07375
+Kenya,KEN,254,Kenya - Telkom Kenya Ltd (Orange),639,007,0.02000
+Kyrgyzstan,KGZ,996,Kyrgyzstan-Fonex,437,003,0.02000
+Kyrgyzstan,KGZ,996,Kyrgyzstan-Others,,,0.02000
+Kyrgyzstan,KGZ,996,Bitel,437,001,0.01000
+Kyrgyzstan,KGZ,996,BiMoCom (Megacom),437,005,0.02000
+Kyrgyzstan,KGZ,996,Nur Telecom,437,009,0.01000
+Cambodia,KHM,855,Cambodia-Others,,,0.05772
+Cambodia,KHM,855,Cambodia - Applifone Co Ltd (StarCell),456,005,0.05772
+Cambodia,KHM,855,Cambodia - Cad Com / TrueMove,456,004,0.05772
+Cambodia,KHM,855,Cambodia - Camshin,456,501,0.05772
+Cambodia,KHM,855,Cambodia - Camtel,456,014,0.05772
+Cambodia,KHM,855,Cambodia - Hello Axiata Co Ltd (NMT),456,002,0.05772
+Cambodia,KHM,855,Cambodia - Latelz Co Ltd (Smart Mobile),456,006,0.05772
+Cambodia,KHM,855,Cambodia - Metfone,456,008,0.05772
+Cambodia,KHM,855,Cambodia - Mobitel,456,001,0.05772
+Cambodia,KHM,855,Cambodia - Sotelco,456,009,0.05772
+Kiribati,KIR,686,Kiribati - All Networks,,,0.06500
+Saint Kitts And Nevis,KNA,1869,Saint Kitts and Nevis-LIME,,,0.05500
+Saint Kitts And Nevis,KNA,1869,Saint Kitts and Nevis-Others,,,0.04500
+Saint Kitts And Nevis,KNA,1869,Cable & Wireless,356,110,0.05500
+Saint Kitts And Nevis,KNA,1869,UTS CariGlobe,356,070,0.03500
+South Korea,KOR,82,South Korea - All Networks,,,0.03500
+Kuwait,KWT,965,Kuwait - Kuwait Telecom Company,419,004,0.03000
+Kuwait,KWT,965,Kuwait - Ooredoo,419,003,0.03000
+Kuwait,KWT,965,Kuwait - Zain / Mobile Telecommunication Company (MTC),419,002,0.01000
+Laos,LAO,856,LAO PEOPLE'S DEMOCRATIC REPUBLIC-Others,,,0.00880
+Laos,LAO,856,Laos - Entreprise d'Etat des Postes et Telecommunications Lao (ETL),457,002,0.00880
+Laos,LAO,856,Laos - Lao Telecom,457,001,0.00880
+Laos,LAO,856,Laos - Millicom Lao Co (Tigo),457,008,0.00880
+Laos,LAO,856,Laos - Star Telecom Company Ltd (STL),457,003,0.01800
+Lebanon,LBN,961,Lebanon-Others,,,0.01700
+Lebanon,LBN,961,Lebanon - Alfa,415,001,0.03000
+Lebanon,LBN,961,Lebanon - MTC Touch,415,003,0.03000
+Liberia,LBR,231,Liberia-Others,,,0.02200
+Liberia,LBR,231,Liberia - Cellcom,618,007,0.02200
+Liberia,LBR,231,Liberia - Comium Liberia,618,004,0.01100
+Liberia,LBR,231,Liberia - Libercell,618,002,0.02200
+Liberia,LBR,231,Liberia - Lonestar Communications Corp.,618,001,0.07000
+Libya,LBY,218,Libya - Al-Madar (Orbit),606,001,0.01375
+Libya,LBY,218,Libya - Libyana,606,000,0.06500
+Saint Lucia,LCA,1758,Saint Lucia-Others,,,0.01600
+Saint Lucia,LCA,1758,Saint Lucia - Cable & Wireless (LIME),358,110,0.01500
+Liechtenstein,LIE,423,Liechtenstein-Others,,,0.02000
+Liechtenstein,LIE,423,Liechtenstein - Cubic Corporation,295,006,0.02000
+Liechtenstein,LIE,423,Liechtenstein - First Mobile,295,007,0.02000
+Liechtenstein,LIE,423,Liechtenstein - Mobilkom Liechtenstein,295,005,0.02000
+Liechtenstein,LIE,423,Liechtenstein - Orange (Liechtenstein),295,002,0.00880
+Liechtenstein,LIE,423,Liechtenstein - Swisscom (Schweiz),295,001,0.03000
+Sri Lanka,LKA,94,Sri Lanka - All Networks,,,0.02000
+Lesotho,LSO,266,Lesotho - Econet Telecom (Ezi Cel Lesotho),651,002,0.02400
+Lesotho,LSO,266,Lesotho - Vodacom,651,001,0.00880
+Lithuania,LTU,370,Lithuania-BITE,246,002,0.03000
+Lithuania,LTU,370,Lithuania - UAB Omnitel,246,001,0.00770
+Lithuania,LTU,370,Lithuania - UAB Tele2,246,003,0.04500
+Luxembourg,LUX,352,Luxembourg - All Networks,,,0.01300
+Latvia,LVA,371,Latvia-Others,,,0.02500
+Latvia,LVA,371,Latvia - BITE Latvija,247,005,0.01000
+Latvia,LVA,371,Latvia - Latvijas Mobilais Telefons (LMT),247,001,0.03500
+Latvia,LVA,371,Latvia - Rigatta,247,006,0.02500
+Latvia,LVA,371,Latvia - Tele2,247,002,0.03850
+Latvia,LVA,371,Latvia - Telekom Baltija (TRIATEL),247,003,0.01000
+Latvia,LVA,371,IZZI,247,008,0.02500
+Macao,MAC,853,SmarTone,455,000,0.03952
+Macao,MAC,853,Companhia de Telecommunicacios de Macua (CTM) (02),455,004,0.00880
+Macao,MAC,853,China Telecom,455,002,0.01800
+Macao,MAC,853,Hutchison Telecom (02),445,005,0.00880
+Saint Martin,MAF,1599,Saint Martin - All Networks,,,0.04000
+Morocco,MAR,212,Morocco - All Networks,,,0.04200
+Monaco,MCO,377,Monaco - All Networks,,,0.03430
+Moldova,MDA,373,"Moldova, Republic Of-IDC",,,0.04500
+Moldova,MDA,373,"Moldova, Republic Of-Unite",,,0.05000
+Moldova,MDA,373,Moldova - Eventis Mobile,259,004,0.05000
+Moldova,MDA,373,Moldova - MoldCell,259,002,0.05000
+Moldova,MDA,373,Moldova - Moldtelecom,259,003,0.05000
+Moldova,MDA,373,Moldova - Orange Moldova,259,001,0.05000
+Madagascar,MDG,261,Madagascar - Orange Madagascar,646,002,0.01000
+Madagascar,MDG,261,Madagascar - Sacel,646,003,0.01000
+Madagascar,MDG,261,Madagascar - Telecom Malagasy,646,004,0.00880
+Madagascar,MDG,261,Madagascar - ZAIN Madagascar,646,001,0.00880
+Maldives,MDV,960,Maldives - All Networks,,,0.01300
+Mexico,MEX,52,Mexico - All Networks,,,0.03800
+Macedonia,MKD,389,Macedonia - ONE (Cosmofon),294,002,0.01500
+Macedonia,MKD,389,Macedonia - T-Mobile,294,001,0.08000
+Macedonia,MKD,389,Macedonia - VIP Operator,294,003,0.08000
+Mali,MLI,223,Mali-Others,,,0.08840
+Mali,MLI,223,Mali - Malitel (Sotelma),610,001,0.08840
+Mali,MLI,223,Mali - Orange Mali,610,002,0.08840
+Malta,MLT,356,Malta - All Networks,,,0.01000
+Myanmar,MMR,95,Myanmar - All Networks,,,0.06500
+Montenegro,MNE,382,Montenegro-Telenor,,,0.00880
+Montenegro,MNE,382,Montenegro - MTEL,297,003,0.01700
+Montenegro,MNE,382,Montenegro - ProMonte,297,001,0.00880
+Montenegro,MNE,382,Montenegro - T-Mobile,297,004,0.00880
+Mongolia,MNG,976,Mongolia - All Networks,,,0.03000
+Northern Mariana Islands,MNP,1670,Northern Mariana Islands - All Networks,,,0.03500
+Mozambique,MOZ,258,Mozambique - All Networks,,,0.01000
+Mauritania,MRT,222,Mauritania - Chinguitel,609,002,0.06500
+Mauritania,MRT,222,Mauritania - Mattel,609,001,0.01800
+Mauritania,MRT,222,Mauritania - Mauritel,609,010,0.01800
+Montserrat,MSR,1664,Montserrat-Others,,,0.01000
+Montserrat,MSR,1664,Montserrat - Cable & Wireless (LIME),354,860,0.01500
+Martinique,MTQ,596,Martinique - Digicel Antilles Francaises Guyane,,,0.00880
+Martinique,MTQ,596,Martinique - MARTINIQUE TELEPHONE MOBILE,340,012,0.00880
+Martinique,MTQ,596,Martinique - Orange Caraibe Mobiles,,,0.06500
+Martinique,MTQ,596,Martinique - Outremer Telecom,,,0.02500
+Mauritius,MUS,230,Mauritius-Orange,,,0.00880
+Mauritius,MUS,230,Mauritius-Others,,,0.06500
+Mauritius,MUS,230,Mauritius - Cell Plus,617,001,0.11000
+Mauritius,MUS,230,Mauritius - Emtel,617,010,0.01300
+Mauritius,MUS,230,Mauritius - Mahanagar Telephone Mauritius Ltd. (MTML),617,003,0.12000
+Malawi,MWI,265,Malawi - CelTel,650,010,0.03367
+Malawi,MWI,265,Malawi - Telekom Networks Malawi Ltd.,650,001,0.00880
+Malaysia,MYS,60,Malaysia - All Networks,,,0.01900
+Namibia,NAM,264,Namibia - Mobile Telecommunications (MTC),649,001,0.04100
+Namibia,NAM,264,Namibia - Orascom Telecom Holding (Leo),649,003,0.00880
+Namibia,NAM,264,Namibia - Telecom Namibia,649,002,0.06500
+New Caledonia,NCL,687,New Caledonia-Others,,,0.02500
+New Caledonia,NCL,687,New Caledonia - OPT New Caledonia Mobilis,546,001,0.13000
+Niger,NER,227,Niger - Airtel Niger,614,002,0.03000
+Niger,NER,227,Niger - Moov (Telecel),614,003,0.02400
+Niger,NER,227,Niger - Orange,614,004,0.10000
+Niger,NER,227,Niger - Sahelcom,614,001,0.00880
+Norfolk Island,NFK,,Norfolk Island - All Networks,,,0.04000
+Nigeria,NGA,234,Nigeria - Other,,,0.01300
+Nigeria,NGA,234,Nigeria-Starcomms,621,099,0.01300
+Nigeria,NGA,234,Nigeria-Visafone,,,0.01300
+Nigeria,NGA,234,Nigeria - Airtel Nigeria,621,020,0.01300
+Nigeria,NGA,234,Nigeria - EMST Etisalat,621,060,0.01300
+Nigeria,NGA,234,Nigeria - Globacom Ltd,621,050,0.01300
+Nigeria,NGA,234,Nigeria - MTN,621,030,0.01300
+Nigeria,NGA,234,Nigeria - Multi-links Telecommunications Ltd,621,000,0.01300
+Nigeria,NGA,234,Nigeria - NITEL,621,040,0.01300
+Nigeria,NGA,234,Nigeria - Visafone Communications Ltd,621,025,0.01300
+Nicaragua,NIC,505,Nicaragua - All Networks,,,0.02200
+Niue,NIU,683,Niue - All Networks,,,0.06500
+Netherlands,NLD,31,Netherlands-Others,,,0.07000
+Netherlands,NLD,31,Netherlands - AT&T Global Network Services Nederland,204,065,0.06800
+Netherlands,NLD,31,Netherlands - Elephant Talk,204,005,0.06800
+Netherlands,NLD,31,Netherlands - KPN,204,069,0.06800
+Netherlands,NLD,31,Netherlands - KPN - Telfort Mobile,204,012,0.07000
+Netherlands,NLD,31,Netherlands - Lancelot,204,028,0.06800
+Netherlands,NLD,31,Netherlands - Lycamobile Netherlands,204,009,0.06800
+Netherlands,NLD,31,Netherlands - Mundio Mobile,204,006,0.06800
+Netherlands,NLD,31,Netherlands - Private Mobility Nederland,204,024,0.06800
+Netherlands,NLD,31,Netherlands - Roamware (Netherlands),204,068,0.06800
+Netherlands,NLD,31,Netherlands - T-Mobile Netherlands,204,016,0.07000
+Netherlands,NLD,31,Netherlands - Tele2  Nederland,204,002,0.06800
+Netherlands,NLD,31,Netherlands - Teleena Holding,204,007,0.07000
+Netherlands,NLD,31,Netherlands - UPC Nederland,204,018,0.06800
+Netherlands,NLD,31,Netherlands - Vodafone Libertel,204,004,0.06800
+Netherlands,NLD,31,Netherlands - Voiceworks,204,003,0.06800
+Netherlands,NLD,31,Netherlands - Ziggo,204,015,0.06800
+Netherlands,NLD,31,Intercity Mobile Communications,204,017,0.06800
+Netherlands,NLD,31,Aspider Solutions Nederland,204,023,0.06800
+Norway,NOR,47,Norway-Others,,,0.03800
+Norway,NOR,47,Norway - Com4 AS,242,009,0.03800
+Norway,NOR,47,Norway - Mobile Norway,242,005,0.03432
+Norway,NOR,47,Norway - TDC AS,242,008,0.03400
+Norway,NOR,47,Norway - Tele2 Norge AS,242,004,0.03400
+Norway,NOR,47,Norway - Telenor Norge AS,242,001,0.03400
+Norway,NOR,47,Norway - TeliaSonera Norge AS (NetCom),242,002,0.03400
+Norway,NOR,47,Ventelo AS,242,007,0.03400
+Norway,NOR,47,Lyca Mobile,242,023,0.03000
+Nepal,NPL,977,Nepal - Nepal Telecom,429,001,0.07263
+Nepal,NPL,977,Nepal - Smart Telecom,429,004,0.06000
+Nepal,NPL,977,Nepal - Spice Nepal,429,002,0.11752
+Nauru,NRU,674,Nauru - All Networks,,,0.04000
+New Zealand,NZL,64,New Zealand-Telecom,,,0.07800
+New Zealand,NZL,64,New Zealand - Telecom New Zealand (Spark),530,002,0.07800
+New Zealand,NZL,64,New Zealand - Two Degrees Mobile,530,024,0.09800
+New Zealand,NZL,64,New Zealand - Vodafone,530,001,0.06800
+Oman,OMN,968,Oman - Others,,,0.03150
+Oman,OMN,968,Oman - Oman Mobile,422,002,0.03150
+Oman,OMN,968,Oman - Omani Qatari Telecom,422,003,0.03150
+Pakistan,PAK,92,Pakistan All,,,0.02840
+Pakistan,PAK,92,Pakistan - CMPAK (Zong),410,004,0.02840
+Pakistan,PAK,92,Pakistan - Instaphone,410,008,0.02840
+Pakistan,PAK,92,Pakistan - Mobilink GSM,410,001,0.02840
+Pakistan,PAK,92,Pakistan - Pakistan Telecommunication Mobile Ltd (Ufone),410,003,0.02840
+Pakistan,PAK,92,Pakistan - Telenor Pakistan,410,006,0.02840
+Pakistan,PAK,92,Pakistan - Warid Telecommunications,410,007,0.02840
+Panama,PAN,507,Panama-Others,,,0.03500
+Panama,PAN,507,Panama - Cable & Wireless(Movil),714,001,0.07553
+Panama,PAN,507,Panama - Claro,714,003,0.01000
+Panama,PAN,507,Panama - Digicel,714,004,0.03500
+Panama,PAN,507,Panama - Telefonica Moviles (Movistar),714,002,0.02200
+Peru,PER,51,Peru-Others,,,0.02000
+Peru,PER,51,Peru - Claro,716,010,0.02379
+Peru,PER,51,Peru - Nextel del Peru,716,007,0.01625
+Peru,PER,51,Peru - Telefonica Moviles (Movistar),716,006,0.02158
+Peru,PER,51,Peru - Viettle Peru S.A.C,716,015,0.01898
+Philippines,PHL,63,Philippines - All Networks,,,0.01400
+Palau,PLW,680,Palau-Others,,,0.04000
+Palau,PLW,680,Palau - Palau Mobile Corporation (PMC),552,002,0.00750
+Palau,PLW,680,Palau - Palau National Communications Corporation (PNCC),552,001,0.04000
+Papua New Guinea,PNG,675,Papua New Guinea-Others,,,0.01100
+Papua New Guinea,PNG,675,Papua New Guinea - BeMobile (PNG) Ltd,537,001,0.01100
+Papua New Guinea,PNG,675,Papua New Guinea - Digicel (PNG),537,003,0.02750
+Poland,POL,48,Poland - All Networks,,,0.02200
+Puerto Rico,PRI,1,Puerto Rico-All Networks,,,0.07500
+Puerto Rico,PRI,1,"Puerto Rico - North Sight Communications, Inc.",310,017,0.02000
+North Korea,PRK,850,North Korea - All Networks,,,0.06500
+Portugal,PRT,351,Portugal - All Networks,,,0.02850
+Paraguay,PRY,595,Paraguay - Claro,744,002,0.01800
+Paraguay,PRY,595,Paraguay - Personal (Nucleo),744,005,0.02000
+Paraguay,PRY,595,Paraguay - Telecel / Tigo,744,004,0.02700
+Paraguay,PRY,595,Paraguay - VOX,744,001,0.02000
+French Polynesia,PYF,689,French Polynesia - All Networks,,,0.00880
+Qatar,QAT,974,Qatar - All Networks,,,0.03300
+Reunion,REU,262,Reunion-Others,,,0.06500
+Reunion,REU,262,Reunion - Orange Reunion,647,000,0.04500
+Reunion,REU,262,Reunion - Outremer Telecom,647,002,0.06500
+Reunion,REU,262,Reunion - Societe Reunionnaise du Radiotelephone,647,010,0.04500
+Romania,ROU,40,Romania-DIGI,,,0.05000
+Romania,ROU,40,Romania-Others,,,0.06500
+Romania,ROU,40,Romania - Cosmote Romanian Mobile Telecommunications,226,003,0.04400
+Romania,ROU,40,Romania - Orange Romania,226,010,0.04400
+Romania,ROU,40,Romania - RCS & RDS,226,005,0.07000
+Romania,ROU,40,Romania - Romtelecom,226,002,0.06500
+Romania,ROU,40,Romania - Telemobile,226,004,0.06500
+Romania,ROU,40,Romania - Vodafone Romania,226,001,0.04160
+Russia,RUS,7,Russia-Other Networks,250,009,0.01924
+Russia,RUS,7,Mobile TeleSystems,250,001,0.02652
+Russia,RUS,7,YOTA (Megafon),250,002,0.02652
+Russia,RUS,7,Nizhegorodskaya Cellular Communications (NCC),250,003,0.01924
+Russia,RUS,7,Yeniseytelecom (ETK),250,005,0.01924
+Russia,RUS,7,Astarte,250,006,0.01924
+Russia,RUS,7,SMARTS,250,007,0.02652
+Russia,RUS,7,Scartel,250,011,0.02000
+Russia,RUS,7,Baykal Westcom,250,012,0.01924
+Russia,RUS,7,New Telephone Company (NTC),250,016,0.01924
+Russia,RUS,7,Uralsvyazinform (UTel),250,017,0.01924
+Russia,RUS,7,VolgaTelecom (Tele2),250,019,0.01924
+Russia,RUS,7,Tele2 Russia,250,020,0.02500
+Russia,RUS,7,Mobicom-Novosibirsk,250,023,0.02500
+Russia,RUS,7,Motiv,250,035,0.01755
+Russia,RUS,7,Kodotel (Votek Mobile),250,037,0.01924
+Russia,RUS,7,PT Mobile,250,092,0.01924
+Russia,RUS,7,Vimpel Communications,250,099,0.02652
+Rwanda,RWA,250,Rwanda - Airtel Rwanda,635,014,0.04200
+Rwanda,RWA,250,Rwanda - MTN Rwanda,635,010,0.04200
+Rwanda,RWA,250,Rwanda - Rwandatel,635,012,0.04200
+Rwanda,RWA,250,Rwanda - TIGO Rwanda,635,013,0.04200
+Saudi Arabia,SAU,966,Saudi Arabia-bravO!,,,0.02300
+Saudi Arabia,SAU,966,Saudi Arabia - Etihad Etisalat Company (Mobily),420,003,0.02665
+Saudi Arabia,SAU,966,Saudi Arabia - PTC (iDEN),420,099,0.02300
+Saudi Arabia,SAU,966,Saudi Arabia - Saudi Telecom Company (STC),420,001,0.02300
+Saudi Arabia,SAU,966,Saudi Arabia - ZAIN,420,004,0.02300
+Sudan,SDN,249,Sudan - Areeba (Bashair Telecom Co. Ltd) MTN Sudan,634,002,0.02500
+Sudan,SDN,249,Sudan - Mobitel,634,001,0.03000
+Sudan,SDN,249,Sudan - Sudatel (Sudani One),634,007,0.02500
+Sudan,SDN,249,Sudan - Vivacell,634,005,0.06500
+Senegal,SEN,221,Senegal - Others (Sonatel),,,0.07000
+Senegal,SEN,221,Senegal - Expresso Senegal (Sudatel),608,003,0.04500
+Senegal,SEN,221,Senegal - Orange Senegal (Sonatel),608,001,0.04500
+Senegal,SEN,221,Senegal - Tigo (Sentel),608,002,0.04500
+Singapore,SGP,65,Singapore-Others,,,0.03289
+Singapore,SGP,65,Singapore - DNA Comms (PTRS)  (GRID),525,012,0.01800
+Singapore,SGP,65,Singapore - M1,525,003,0.03289
+Singapore,SGP,65,Singapore - SingTel,525,002,0.03500
+Singapore,SGP,65,Singapore - StarHub,525,005,0.03289
+Solomon Islands,SLB,677,Solomon Islands-Others,,,0.06500
+Solomon Islands,SLB,677,Solomon Islands - Bmobile (SI) Ltd.,540,002,0.02000
+Solomon Islands,SLB,677,Solomon Islands - Solomon Telekom Company,540,001,0.02000
+Sierra Leone,SLE,232,Sierra Leone - All Networks,,,0.00880
+El Salvador,SLV,503,El Salvador-Claro,706,010,0.03500
+El Salvador,SLV,503,El Salvador-Tigo,,,0.01800
+El Salvador,SLV,503,El Salvador - CTE Telecom Personal,706,001,0.03500
+El Salvador,SLV,503,El Salvador - DIGICEL,706,002,0.01800
+El Salvador,SLV,503,El Salvador - INTELFON,706,005,0.03500
+El Salvador,SLV,503,El Salvador - TELEFONICA MOVILES MOVISTAR,706,004,0.03500
+El Salvador,SLV,503,El Salvador - TELEMOVIL EL SALVADOR (TIGO),706,003,0.01800
+San Marino,SMR,378,San Marino - All Networks,,,0.06000
+Somalia,SOM,252,Somalia - Golis Telecom Somalia,637,030,0.06955
+Somalia,SOM,252,Somalia - Hortel,637,025,0.05000
+Somalia,SOM,252,Somalia - Montysom,637,040,0.06500
+Somalia,SOM,252,Somalia - NationLink,637,010,0.06500
+Somalia,SOM,252,Somalia - SolTelco,637,019,0.06500
+Somalia,SOM,252,Somalia - Somafone,637,004,0.06500
+Somalia,SOM,252,Somalia - Telcom Somalia,637,082,0.15067
+Somalia,SOM,252,Somalia - Telesom,637,001,0.06500
+Saint Pierre and Miquelon,SPM,508,Saint Pierre and Miquelon - All Networks,,,0.06500
+Serbia,SRB,381,Serbia - Telekom Srbija a.d.,220,003,0.01250
+Serbia,SRB,381,Serbia - Telenor d.o.o.,220,001,0.02200
+Serbia,SRB,381,Serbia - Vip mobile d.o.o.,220,005,0.06200
+South Sudan,SSD,,South Sudan-Others,,,0.01000
+South Sudan,SSD,,South Sudan - Gemtel,659,003,0.01000
+South Sudan,SSD,,South Sudan - MTN South Sudan,659,002,0.01100
+South Sudan,SSD,,South Sudan - Network of the World (NOW),659,004,0.01100
+South Sudan,SSD,,South Sudan - Zain South Sudan,659,006,0.02000
+Sao Tome and Principe,STP,239,Sao Tome and Principe - All Networks,,,0.07200
+Suriname,SUR,597,Suriname - All Networks,,,0.01000
+Slovakia,SVK,421,Slovakia - All Networks,,,0.04900
+Slovenia,SVN,386,Slovenia - Compatel Ltd,293,020,0.06500
+Slovenia,SVN,386,Slovenia - Si.Mobil-Vodafone,293,040,0.05300
+Slovenia,SVN,386,Slovenia - Slovenske Zeleznice D.O.O - (SZ - Infrastruktura),293,010,0.06000
+Slovenia,SVN,386,Slovenia - T Mobile,293,064,0.09000
+Slovenia,SVN,386,Slovenia - TUS Telekom,293,070,0.03300
+Slovenia,SVN,386,Slovenia - Telekom Slovenia (Mobitel),293,041,0.01390
+Sweden,SWE,46,Sweden - Telenor Connexion AB,,,0.05000
+Sweden,SWE,46,Sweden - TeliaSonera Mobile Networks AB,240,001,0.05000
+Sweden,SWE,46,Sweden - Other,,,0.07500
+Sweden,SWE,46,Sweden - 42 Telecom AB,240,016,0.05000
+Sweden,SWE,46,Sweden - AINMT Sverige,240,003,0.05000
+Sweden,SWE,46,Sweden - Beepsend,240,026,0.05000
+Sweden,SWE,46,Sweden - COOLTEL APS,240,028,0.05000
+Sweden,SWE,46,Sweden - Compatel Limited,240,032,0.05000
+Sweden,SWE,46,Sweden - Digitel Mobile Srl,240,025,0.05000
+Sweden,SWE,46,Sweden - EU Tel AB,240,022,0.05000
+Sweden,SWE,46,Sweden - Generic Mobil Systems,240,018,0.07000
+Sweden,SWE,46,Sweden - Gotalandsnatet,240,017,0.05000
+Sweden,SWE,46,Sweden - HI3G Access,240,002,0.03120
+Sweden,SWE,46,Sweden - Lindholmen Science Park,240,011,0.05000
+Sweden,SWE,46,Sweden - MOBIWEB LTD,240,043,0.05000
+Sweden,SWE,46,Sweden - MUNDIO MOBILE (SWEDE,240,019,0.05000
+Sweden,SWE,46,Sweden - MYINDIAN AB,240,027,0.05000
+Sweden,SWE,46,Sweden - Mobile Arts AB,240,033,0.05000
+Sweden,SWE,46,Sweden - NextGen Mobile,240,030,0.05000
+Sweden,SWE,46,Sweden - Swefour (Spring Mobil),240,010,0.03500
+Sweden,SWE,46,Sweden - TDC Sverige,240,014,0.03000
+Sweden,SWE,46,Sweden - Tele2 Sverige,240,007,0.03000
+Sweden,SWE,46,Sweden - Telenor Sverige,240,006,0.03500
+Sweden,SWE,46,Sweden - Tigo Ltd,240,034,0.05000
+Sweden,SWE,46,Sweden - iMEZ,240,020,0.05000
+Sweden,SWE,46,Lycamobile Sweden,240,012,0.05850
+Sweden,SWE,46,Ventelo Sverige,240,013,0.05000
+Sweden,SWE,46,Wireless Maingate,240,015,0.05000
+Sweden,SWE,46,MERCURY INTERNATIONA,240,029,0.05000
+Swaziland,SWZ,268,Swaziland - All Networks,,,0.00880
+Seychelles,SYC,248,Seychelles-Others,,,0.06500
+Seychelles,SYC,248,Seychelles - Cable & Wireless,633,001,0.02000
+Seychelles,SYC,248,Seychelles - MediaTech,633,002,0.02000
+Seychelles,SYC,248,Seychelles - Telecom (Seychelles) Ltd (Airtel),633,010,0.00880
+Syria,SYR,963,Syria - MTN Syria,417,002,0.03000
+Syria,SYR,963,Syria - Syriatel,417,001,0.07400
+Turks and Caicos Islands,TCA,1649,Turks and Caicos Islands - Cable & Wireless (Turks & Caic,376,350,0.02000
+Turks and Caicos Islands,TCA,1649,Turks and Caicos Islands - IslandCom Communication Ltd,376,352,0.01500
+Chad,TCD,235,Chad - Bharti Airtel,622,001,0.01000
+Chad,TCD,235,Chad - Millicom Tchad,622,003,0.01900
+Chad,TCD,235,Chad - Sotel Tchad,622,004,0.02000
+Togo,TGO,228,Togo - All Networks,,,0.02200
+Thailand,THA,66,Thailand-Others,,,0.02000
+Thailand,THA,66,Thailand - AIS,520,001,0.02000
+Thailand,THA,66,Thailand - Telephone Organization of Thailand,520,015,0.03370
+Thailand,THA,66,Thailand - Total Access Communication Plc. (TAC/DTAC),520,018,0.04400
+Thailand,THA,66,Thailand - True Move (Real Future),520,004,0.02930
+Thailand,THA,66,Truemove HSPA 3G,520,000,0.07050
+Thailand,THA,66,AWN Advanced Wireless Network,520,003,0.02350
+Thailand,THA,66,DTN,520,005,0.04400
+Thailand,THA,66,Digital Phone,520,023,0.02350
+Thailand,THA,66,Truemove,520,099,0.02930
+Tajikistan,TJK,992,Tajikistan - All Networks,,,0.00880
+Turkmenistan,TKM,993,Turkmenistan - All Networks,,,0.02000
+Timor Leste,TLS,670,Timor Leste - All Networks,,,0.03000
+Tonga,TON,676,Tonga-Others,,,0.01000
+Tonga,TON,676,Tonga - Tonfon,539,043,0.01100
+Tonga,TON,676,Tonga - U-Call,539,001,0.01950
+Trinidad and Tobago,TTO,1868,Trinidad and Tobago - All Networks,,,0.02250
+Tunisia,TUN,216,Tunisia-TunTel,,,0.05772
+Tunisia,TUN,216,Tunisia-Tunisiana,,,0.05772
+Tunisia,TUN,216,Tunisia - Orange Tunisie,605,001,0.05772
+Tunisia,TUN,216,Tunisia - Orascom Tunesie,605,003,0.05772
+Tunisia,TUN,216,Tunisia - Tunisie Telecom,605,002,0.05772
+Turkey,TUR,90,Turkey - AVEA (Aycell-Aria),286,003,0.04329
+Turkey,TUR,90,Turkey - Vodafone,286,002,0.04329
+Turkey,TUR,90,Turkey - Turkcell,286,001,0.04329
+Taiwan,TWN,886,Taiwan-Taiwan Mobile,,,0.03500
+Taiwan,TWN,886,Taiwan-Others,,,0.03500
+Taiwan,TWN,886,Taiwan - Asia Pacific Telecom,466,005,0.03800
+Taiwan,TWN,886,Taiwan - Chunghwa Telecom LDM,466,092,0.03600
+Taiwan,TWN,886,Taiwan - FITEL (First Tel),466,056,0.03500
+Taiwan,TWN,886,Taiwan - Far Eastone,466,088,0.03500
+Taiwan,TWN,886,Taiwan - Global Mobile (G1),466,010,0.03500
+Taiwan,TWN,886,Taiwan - Taiwan Mobile Co. Ltd,466,093,0.04500
+Taiwan,TWN,886,Taiwan - VIBO Telecom Inc,466,089,0.03000
+Tanzania,TZA,255,Tanzania All,,,0.03000
+Tanzania,TZA,255,"Tanzania, United Republic Of-tiGO",,,0.04200
+Tanzania,TZA,255,Tanzania - Airtel Tanzania Ltd,640,005,0.04200
+Tanzania,TZA,255,Tanzania - Benson Informatics (T) Ltd.,640,008,0.03000
+Tanzania,TZA,255,Tanzania - Dovetel Tanzania Ltd (Sasatel),640,006,0.03000
+Tanzania,TZA,255,Tanzania - MIC,640,002,0.03300
+Tanzania,TZA,255,Tanzania - MyCell,640,012,0.03000
+Tanzania,TZA,255,Tanzania - SMILE COMMUNICATIONS (T) LTD,640,011,0.03000
+Tanzania,TZA,255,Tanzania - Tanzania Communications Commission Ltd. (TTCL),640,007,0.03000
+Tanzania,TZA,255,Tanzania - Vodacom (T) Ltd.,640,004,0.04200
+Tanzania,TZA,255,Tanzania - Zanzibar Telecom Ltd (Zantel),640,003,0.04200
+Uganda,UGA,256,Uganda-Others,,,0.01000
+Uganda,UGA,256,Uganda - Airtel Uganda LTD,641,001,0.04500
+Uganda,UGA,256,Uganda - MTN (Uganda) Ltd,641,010,0.03500
+Uganda,UGA,256,Uganda - Orange Uganda,641,014,0.04500
+Uganda,UGA,256,Uganda - Smile Communications Uganda Ltd,641,033,0.01000
+Uganda,UGA,256,Uganda - Uganda Telecom Ltd,641,011,0.04500
+Uganda,UGA,256,Uganda - Warid Telecom Uganda,641,022,0.02000
+Ukraine,UKR,380,Ukraine-Others,,,0.05200
+Ukraine,UKR,380,Ukraine - 3MOB TriMob,255,007,0.05200
+Ukraine,UKR,380,Ukraine - Golden Telecom,255,005,0.05200
+Ukraine,UKR,380,Ukraine - International Telecommunication (CDMA800),255,004,0.05200
+Ukraine,UKR,380,Ukraine - Kyivstar,255,003,0.05200
+Ukraine,UKR,380,Ukraine - MTS Ukraine (Jeans (UMC),255,001,0.05200
+Ukraine,UKR,380,Ukraine - Telesystems (CDMA),255,021,0.05200
+Ukraine,UKR,380,Ukraine - Ukrainian Radio Systems (Beeline),255,002,0.05200
+Ukraine,UKR,380,Ukraine - life:) - Astelit,255,006,0.05200
+Uruguay,URY,598,Uruguay-Others,,,0.03800
+Uruguay,URY,598,Uruguay - America Movil Wireless Uruguay S.A.,748,010,0.02400
+Uruguay,URY,598,Uruguay - Antel,748,001,0.03800
+Uruguay,URY,598,Uruguay - Telefonica Moviles (Movistar),748,007,0.05300
+United States,USA,1,United States - All Networks,,,0.00350
+Uzbekistan,UZB,998,Uzbekistan-Others,,,0.06500
+Uzbekistan,UZB,998,Uzbekistan-MTS,,,0.06500
+Uzbekistan,UZB,998,Uzbekistan - Coscom (Ucell),434,005,0.04500
+Uzbekistan,UZB,998,Uzbekistan - Perfectum Mobile (Rubicon),434,006,0.02500
+Uzbekistan,UZB,998,Uzbekistan - Untitel(Beeline),434,004,0.05000
+Uzbekistan,UZB,998,Uzbekistan - Uzdunrobita(MTS),434,007,0.02000
+Saint Vincent and Grenadines,VCT,1784,Saint Vincent and The Grenadines-LIME,,,0.04200
+Saint Vincent and Grenadines,VCT,1784,Saint Vincent and The Grenadines-Others,,,0.04200
+Saint Vincent and Grenadines,VCT,1784,Cable & Wireless (St. Vincent),360,110,0.06730
+Venezuela,VEN,58,Venezuela-Others,,,0.00880
+Venezuela,VEN,58,Venezuela - Digitel,734,003,0.00880
+Venezuela,VEN,58,Venezuela - Globalstar of Venezuela,901,004,0.03400
+Venezuela,VEN,58,Venezuela - Movilnet,734,006,0.02250
+Venezuela,VEN,58,Venezuela - Movistar,734,004,0.00875
+Virgin Islands - British,VGB,1284,"Virgin Islands, British-Others",,,0.06500
+Virgin Islands - British,VGB,1284,Cable & Wireless (British Virgin Island),348,170,0.04000
+Virgin Islands - British,VGB,1284,Caribbean Cellular Telephone Ltd (CCT),348,570,0.01600
+Virgin Islands - United States,VIR,1340,"Virgin Islands, U.S.-Innovative",,,0.10160
+Virgin Islands - United States,VIR,1340,"Virgin Islands, U.S.-Windkeeper",,,0.10160
+Virgin Islands - United States,VIR,1340,"Virgin Islands, U.S.-Others",,,0.10160
+Virgin Islands - United States,VIR,1340,Vitelcom Cellular,311,470,0.10160
+Vietnam,VNM,84,Vietnam-Others,,,0.03500
+Vietnam,VNM,84,MobiFon,452,001,0.03500
+Vietnam,VNM,84,VinaPhone,452,002,0.03500
+Vietnam,VNM,84,S-Fone (CDMA),452,003,0.02200
+Vietnam,VNM,84,Viettel Mobile,452,004,0.03500
+Vietnam,VNM,84,Vietnam Mobile (CDMA),452,005,0.03500
+Vietnam,VNM,84,Beeline NV/GTEL,452,007,0.03250
+Vanuatu,VUT,678,Vanuatu-Others,,,0.12000
+Vanuatu,VUT,678,Vanuatu - Digicel,541,005,0.03300
+Vanuatu,VUT,678,Vanuatu - Telecom Vanuatu,541,001,0.01885
+Samoa,WSM,685,Samoa - All Networks,,,0.06500
+Yemen,YEM,967,Yemen-Others,,,0.08000
+Yemen,YEM,967,Yemen - MTN,421,002,0.01380
+Yemen,YEM,967,Yemen - Sabafon,421,001,0.01340
+Yemen,YEM,967,Yemen - Y - Telecom,421,004,0.01380
+Yemen,YEM,967,Yemen - Yemen Mobile,421,003,0.07000
+South Africa,ZAF,27,South Africa - CELL C,655,007,0.01400
+South Africa,ZAF,27,South Africa - MTN,655,010,0.01400
+South Africa,ZAF,27,South Africa - Telkom SA Ltd,655,002,0.03198
+South Africa,ZAF,27,South Africa - Vodacom,655,001,0.01400
+Zambia,ZMB,260,Zambia-Others,,,0.02200
+Zambia,ZMB,260,Zambia - CelTel,645,001,0.02200
+Zambia,ZMB,260,Zambia - Telecel,645,002,0.01000
+Zambia,ZMB,260,Zambia - Zamtel,645,003,0.01000
+Zimbabwe,ZWE,263,Zimbabwe - Econet Wireless,648,004,0.02200
+Zimbabwe,ZWE,263,Zimbabwe - NetOne,648,001,0.02200
+Zimbabwe,ZWE,263,Zimbabwe-Telecel,648,003,0.02200

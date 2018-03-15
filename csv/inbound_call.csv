@@ -1,0 +1,111 @@
+country,country_code,country_iso,prefix,number_type,voice_rate,voice_unit,rental_rate,one_time_setup
+Argentina,54,ARG,54,fixed,0.005,60,6,0
+Australia,61,AUS,61,fixed,0.005,60,2.5,0
+Austria,43,AUT,43,fixed,0.005,60,1,0.8
+Bahrain,973,BHR,973,fixed,0.005,60,5.5,0
+Belgium,32,BEL,32,fixed,0.005,60,0.8,0
+Brazil,55,BRA,55,fixed,0.005,60,4,0
+Bulgaria,359,BGR,359,fixed,0.005,60,1.5,0
+Canada,1,CAN,1,fixed,0.0085,60,1,0
+Chile,56,CHL,56,fixed,0.005,60,4,0
+China,86,CHN,86,fixed,0.08,60,32,32
+Colombia,57,COL,57,fixed,0.005,60,12,0
+Croatia,385,HRV,385,fixed,0.005,60,1,0
+Cyprus,357,CYP,357,fixed,0.005,60,4.5,0
+Czech Republic,420,CZE,420,fixed,0.005,60,1,0.8
+Denmark,45,DNK,45,fixed,0.005,60,1,0
+Dominican Republic,1809,DOM,1,fixed,0.005,60,5.5,0
+El Salvador,503,SLV,503,fixed,0.005,60,5.5,0
+Estonia,372,EST,372,fixed,0.005,60,1,0
+Finland,358,FIN,358,fixed,0.005,60,1,0
+France,33,FRA,33,fixed,0.005,60,0.8,0
+Georgia,995,GEO,995,fixed,0.005,60,10,0
+Germany,49,DEU,49,fixed,0.005,60,2.5,5
+Ghana,233,GHA,233,fixed,0.023,60,20,25
+Greece,30,GRC,30,fixed,0.005,60,1,0
+Hong Kong,852,HKG,852,fixed,0.005,60,3,0
+Hungary,36,HUN,36,fixed,0.005,60,1,0
+India,91,IND,91,fixed,0.2705,60,18,110
+Indonesia,62,IDN,62,fixed,0.008,60,5.5,0
+Ireland,353,IRL,353,fixed,0.005,60,0.8,0
+Israel,972,ISR,972,fixed,0.005,60,2.5,0
+Italy,39,ITA,39,fixed,0.005,60,0.8,0
+Japan,81,JPN,81,fixed,0.005,60,3.9,0
+Latvia,371,LVA,371,fixed,0.005,60,1.2,0
+Lithuania,370,LTU,370,fixed,0.005,60,1.2,0
+Luxembourg,352,LUX,352,fixed,0.005,60,1,0
+Malaysia,60,MYS,60,fixed,0.0198,60,10,25
+Malta,356,MLT,356,fixed,0.005,60,3.65,0
+Mexico,52,MEX,52,fixed,0.005,60,4,0
+Netherlands,31,NLD,31,fixed,0.005,60,0.8,0
+New Zealand,64,NZL,64,fixed,0.005,60,2.5,0
+Norway,47,NOR,47,fixed,0.005,60,0.8,0
+Panama,507,PAN,507,fixed,0.005,60,4.7,0
+Peru,51,PER,51,fixed,0.005,60,4,0
+Philippines,63,PHL,63,fixed,0.223,60,25,45
+Poland,48,POL,48,fixed,0.005,60,0.8,0
+Portugal,351,PRT,351,fixed,0.005,60,1,0
+Puerto Rico,1,PRI,1,fixed,0.005,60,3.5,0
+Romania,40,ROU,40,fixed,0.005,60,2,0
+Russia,7,RUS,7,fixed,0.004,60,40,40
+Singapore,65,SGP,65,fixed,0.005,60,4.5,0
+Slovakia,421,SVK,421,fixed,0.005,60,1.2,0
+Slovenia,386,SVN,386,fixed,0.005,60,1.2,0
+South Africa,27,ZAF,27,fixed,0.005,60,1,0
+South Korea,82,KOR,82,fixed,0.005,60,3.2,2
+Spain,34,ESP,34,fixed,0.005,60,0.8,0
+Sweden,46,SWE,46,fixed,0.005,60,0.8,0.8
+Switzerland,41,CHE,41,fixed,0.005,60,0.8,0
+Taiwan,886,TWN,886,fixed,0.1,60,25,30
+Turkey,90,TUR,90,fixed,0.005,60,4,0
+Ukraine,380,UKR,380,fixed,0.017,1,27,0
+United Kingdom,44,GBR,44,fixed,0.005,60,0.8,0
+United States,1,USA,1,fixed,0.0085,60,0.8,0
+Vietnam,84,VNM,84,fixed,0.643,60,54,250
+Argentina,54,ARG,54,tollfree,0.185,60,35,50
+Australia,61,AUS,61,tollfree,0.06,60,15,57
+Austria,43,AUT,43,tollfree,0.33,60,1,4
+Bahrain,973,BHR,973,tollfree,0.2175,60,17,8.5
+Belgium,32,BEL,32,tollfree,0.41,60,1,3
+Brazil,55,BRA,55,tollfree,0.3107,60,6,0
+Canada,1,CAN,1,tollfree,0.021,60,1,0
+China,86,CHN,86,tollfree,0.6,60,45,40
+Colombia,57,COL,57,tollfree,0.62,60,15,13
+Croatia,385,HRV,385,tollfree,0.266,60,2,3
+Cyprus,357,CYP,357,tollfree,0.06,60,28,8
+Czech Republic,420,CZE,420,tollfree,0.5,60,12,60
+Denmark,45,DNK,45,tollfree,0.23,60,1,1
+Finland,358,FIN,358,tollfree,0.23,60,17.42,46
+France,33,FRA,33,tollfree,0.14,60,1,1
+Germany,49,DEU,49,tollfree,0.266,60,25,15
+Greece,30,GRC,30,tollfree,0.03,60,2,2
+Hungary,36,HUN,36,tollfree,0.145,60,3,3
+India,91,IND,91,tollfree,0.355,60,18,110
+Indonesia,62,IDN,62,tollfree,0.56,60,54,50
+Ireland,353,IRL,353,tollfree,0.88,60,1,5
+Israel,972,ISR,972,tollfree,0.042,60,12,24
+Italy,39,ITA,39,tollfree,0.78,60,1,8
+Japan,81,JPN,81,tollfree,0.753,60,75,25
+Lithuania,370,LTU,370,tollfree,0.052,60,6.5,6.5
+Mexico,52,MEX,52,tollfree,0.0924,60,20,0
+Netherlands,31,NLD,31,tollfree,0.4,60,5,150
+New Zealand,64,NZL,64,tollfree,0.21,60,26,39
+Norway,47,NOR,47,tollfree,0.045,60,2,3
+Panama,507,PAN,507,tollfree,0.06,60,15,15
+Peru,51,PER,51,tollfree,0.24,60,15,12
+Philippines,63,PHL,63,tollfree,0.008,60,20,0
+Portugal,351,PRT,351,tollfree,0.32,60,1,3
+Puerto Rico,1,PRI,1,tollfree,0.05,60,2,5
+Russia,7,RUS,7,tollfree,0.22,60,54,50
+Saudi Arabia,966,SAU,966,tollfree,0.24675,60,60,75
+South Korea,82,KOR,82,tollfree,0.003,60,7.5,0
+Spain,34,ESP,34,tollfree,0.48,60,1,3
+Sweden,46,SWE,46,tollfree,0.13,60,30,25
+Switzerland,41,CHE,41,tollfree,0.99,60,40,350
+Taiwan,886,TWN,886,tollfree,0.18,60,50,45
+Thailand,66,THA,66,tollfree,0.36,60,58,60
+Turkey,90,TUR,90,tollfree,0.005,60,4,0
+United Arab Emirates,971,ARE,971,tollfree,0.65,60,75,80
+United Kingdom,44,GBR,44,tollfree,0.14,60,1.4,1.5
+United States,1,USA,1,tollfree,0.021,60,1,0
+Vietnam,84,VNM,84,tollfree,0.64,60,54,50
